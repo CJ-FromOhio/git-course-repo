@@ -1,1 +1,2 @@
-user1 changed
+user1 changed 
+(bug debuged)
